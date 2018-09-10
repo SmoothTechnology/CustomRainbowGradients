@@ -12,6 +12,7 @@
 Adafruit_NeoPixel pixels1 = Adafruit_NeoPixel(NUMPIXELS, LED_PIN1, NEO_GRB + NEO_KHZ800);
 Adafruit_NeoPixel pixels2 = Adafruit_NeoPixel(NUMPIXELS, LED_PIN2, NEO_GRB + NEO_KHZ800);
 
+
 int LOWERCOLOR = 10;
 int UPPERCOLOR = 95;
 int shifter1 = 0;
